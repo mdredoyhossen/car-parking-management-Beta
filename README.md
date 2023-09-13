@@ -44,7 +44,7 @@ Worker Panel:
 
 Upcoming Enhancements:
 - Future versions will incorporate advanced features such as time tracking and worker IDs.
-- The project will include an automatic file creation system for essential files.
+- The project will include an automatic file creation system for set price file.
 - A scheduling system for worker registration will be implemented to avoid time conflicts.
 
 Conclusion:
